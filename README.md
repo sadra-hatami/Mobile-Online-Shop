@@ -19,6 +19,7 @@ Browse groups, open a product, add it to the basket, and confirm the order after
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
 [![Web Forms](https://img.shields.io/badge/Web%20Forms-Pages-2C3E50?style=for-the-badge)](https://learn.microsoft.com/aspnet/web-forms/)
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Basket](https://img.shields.io/badge/Feature-Basket-E67E22?style=for-the-badge)](#-key-features)
 [![Admin](https://img.shields.io/badge/Side-Admin-34495E?style=for-the-badge)](#-two-sides)
 [![Search](https://img.shields.io/badge/Feature-Search-1ABC9C?style=for-the-badge)](#-key-features)
