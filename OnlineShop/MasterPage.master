@@ -1,0 +1,56 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>Untitled Page</title>
+    <link href="Style.css" rel="stylesheet" type="text/css" />
+    <link href="StyleMenu.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <table style="width: 780px; height: 100%;">
+            <tr>
+                <td valign="top">
+                    <table cellpadding="0" cellspacing="0" style="width: 100%; height: 100%">
+                        <tr>
+                            <td align="left" style="background-image: url(Images/bb.jpg); width: 100%">
+                            </td>
+                            <td align="right">
+                                <img alt="فروشگاه آنلاین موبایل" src="Images/MainLogo.jpg" /></td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td style="height: 100%" valign="top">
+                    <div style="text-align: center">
+                        <table style="width: 100%; height: 100%; background-image: url(Images/back_right1.jpg);">
+                            <tr>
+                                <td valign="top">
+                                    <div id="tabs10">
+                                        <ul>
+                                            <li><a href="Default.aspx"><span> صفحه اصلی</span></a> </li>
+                            <li><a href="Register.aspx"><span>عضویت</span></a> </li>
+                            <li><a href="Login.aspx"><span> ورود   </span></a> </li>
+                            <li><a href="Search.aspx" ><span>بخش جستجو</span></a> </li>
+                            <li><a href="AboutUs.aspx"><span>درباره ما</span></a> </li>
+                             <li><a href="ContactUs.aspx"><span>تماس با ما</span></a> </li>
+                             <li><a href="AdminLogin.aspx"><span>بخش مدیریت</span></a> </li>
+                                        </ul>
+                                    </div>
+        <asp:contentplaceholder id="ContentPlaceHolder1" runat="server">
+        </asp:contentplaceholder>
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                </td>
+            </tr>
+        </table>
+    </div>
+    </form>
+</body>
+</html>
