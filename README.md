@@ -25,7 +25,6 @@ Browse groups, open a product, add it to the basket, and confirm the order after
 [![Persian](https://img.shields.io/badge/Language-Persian-success?style=for-the-badge)](https://en.wikipedia.org/wiki/Persian_language)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/license/mit)
 [![Open Source](https://img.shields.io/badge/Open_Source-Project-black?style=for-the-badge&logo=github)](https://opensource.org/)
-[![Stars](https://img.shields.io/github/stars/sadra-hatami/Mobile-Online-Shop?style=for-the-badge)](https://github.com/sadra-hatami/Mobile-Online-Shop/stargazers)
 
 <br>
 
